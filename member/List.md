@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: 名單
-permalink: /MemberName/
+# permalink: /MemberName/
 ---
 
 01 - 許玫 - 多倫多
