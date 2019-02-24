@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 學員
-permalink: /member/
+permalink: /LetterToMember/
 ---
 
 ## 窗與門 -- 致學員的歡迎函
