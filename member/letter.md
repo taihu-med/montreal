@@ -1,7 +1,6 @@
 ---
-layout: default
-title: 學員
-permalink: /LetterToMember/
+title: 歡迎函
+order: 1
 ---
 
 ## 窗與門 -- 致學員的歡迎函
